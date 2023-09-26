@@ -11,5 +11,8 @@ Download and keep all files in their respective folders as they are shown in the
 Open the index.html file in your browser to access the project.
 Click Add Packman as many as you want. Click Start Game to run the game.
 
+# Roadmap
+Add random sizes and random colors.
+
 License information
 Code from MIT xPro Womone Coding June 2023 Cohort | Helga Sallaku
